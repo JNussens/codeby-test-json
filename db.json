@@ -18,49 +18,49 @@
       "name": "T-Shirt",
       "size": "G",
       "color": "Red",
-      "price": 12000,
+      "price": 12500,
       "id": "5623"
     },
     {
       "name": "T-Shirt",
       "size": "P",
       "color": "Yellow",
-      "price": 12000,
+      "price": 11000,
       "id": "5631"
     },
     {
       "name": "T-Shirt",
       "size": "M",
       "color": "Yellow",
-      "price": 12000,
+      "price": 13000,
       "id": "5632"
     },
     {
       "name": "T-Shirt",
       "size": "G",
       "color": "Yellow",
-      "price": 12000,
+      "price": 13000,
       "id": "5633"
     },
     {
       "name": "T-Shirt",
       "size": "P",
       "color": "Black",
-      "price": 12000,
+      "price": 15000,
       "id": "5641"
     },
     {
       "name": "T-Shirt",
       "size": "M",
       "color": "Black",
-      "price": 12000,
+      "price": 15000,
       "id": "5642"
     },
     {
       "name": "T-Shirt",
       "size": "G",
       "color": "Black",
-      "price": 12000,
+      "price": 15000,
       "id": "5643"
     }
   ]
