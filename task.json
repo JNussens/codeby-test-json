@@ -1,0 +1,10 @@
+{
+  "title": "Front-end Test",
+  "difficulty": 1,
+  "customHTML": null,
+  "description": [
+    { "type": "title", "text": "This is the title" },
+    { "type": "paragraph", "text": "This is the paragraph of the task. This is an example. Please, don\'t try this at home!" },
+    { "type": "paragraph", "text": "This is the paragraph of the task #2. This is an example!! Please, don\'t try this at home!" }
+  ]
+}
